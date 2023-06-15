@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://proj/VideoPlayerLOADING_01.gd" type="Script" id=1]
+[ext_resource path="res://files/stuff/loading/LOADING_01.ogv" type="VideoStream" id=2]
+
+[node name="Spatial" type="Node2D"]
+
+[node name="CanvasLayerLOADING_01" type="CanvasLayer" parent="."]
+
+[node name="VideoPlayerLOADING_01" type="VideoPlayer" parent="CanvasLayerLOADING_01"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+stream = ExtResource( 2 )
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
