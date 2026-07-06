@@ -10,3 +10,13 @@ credits goes for mosaic for making the nux and nup blender addon, heavily modifi
 credits goes for the textureconvert
 
 <img width="1658" height="1238" alt="schoooltimeee" src="https://github.com/user-attachments/assets/2e85a263-7685-4720-8d6a-abf048d0de11" />
+
+
+now these days finding nemo use brightness something like this
+
+<img width="1308" height="968" alt="nemo xboooxxx" src="https://github.com/user-attachments/assets/f7808092-92a1-4d1c-8733-9bf55fdc0116" />
+
+
+there is code for that
+
+<img width="462" height="52" alt="brightness" src="https://github.com/user-attachments/assets/e70d62e8-ccf0-47da-b92a-27a2e9002c29" />
