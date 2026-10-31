@@ -1,0 +1,18 @@
+Scriptname "jelly_01"
+
+Start:
+	Rate	1,0   ;;update rate plus rand  
+	wait 0,216
+
+jelly_01:
+	
+	Repeat
+	TexAdj 1,0,108
+	UntilTex = 108
+	Tex 0
+	
+
+
+	Goto 	jelly_01
+
+

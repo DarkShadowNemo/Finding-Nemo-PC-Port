@@ -1,0 +1,13 @@
+[remap]
+
+importer="ats"
+type="Resource"
+path="res://.import/diver.ats-94040d39ee91ffc13854693307a0358b.tres"
+
+[deps]
+
+source_file="res://files/ats/chars/diver.ats"
+dest_files=[ "res://.import/diver.ats-94040d39ee91ffc13854693307a0358b.tres" ]
+
+[params]
+

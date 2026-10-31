@@ -1,0 +1,38 @@
+Scriptname "Shrimp"
+
+Start:
+	Rate 1,0
+	Tex 1
+	wait 0,15
+shrimp:
+	Tex 0
+	Tex 1
+	Tex 2
+	Tex 1
+	Tex 0
+	Tex 1
+	Tex 2
+	Tex 1
+	Tex 0
+	Tex 1
+	Tex 2
+	Tex 1
+	Tex 0
+	Tex 1
+	Tex 2
+	Tex 1
+	Tex 0
+	Tex 1
+	Tex 2
+	Tex 1
+	Tex 0
+	Tex 1
+	Tex 2
+	Tex 1
+	Tex 0
+	Tex 1
+	Tex 2
+	Tex 1
+	Tex 0
+
+	Goto shrimp

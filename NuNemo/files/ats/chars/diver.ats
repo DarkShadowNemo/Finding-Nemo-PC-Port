@@ -1,0 +1,15 @@
+Scriptname "Diver"
+
+Start:
+	Rate 1,0
+	
+Main:
+	Tex 1
+	Tex 0
+	wait 60,120
+	
+	Tex 2
+	Tex 3
+	wait 15,30
+	Goto Main
+	

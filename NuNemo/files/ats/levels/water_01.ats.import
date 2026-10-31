@@ -1,0 +1,13 @@
+[remap]
+
+importer="ats"
+type="Resource"
+path="res://.import/water_01.ats-6f1c138732557228bee962c591bd0321.tres"
+
+[deps]
+
+source_file="res://files/ats/levels/water_01.ats"
+dest_files=[ "res://.import/water_01.ats-6f1c138732557228bee962c591bd0321.tres" ]
+
+[params]
+

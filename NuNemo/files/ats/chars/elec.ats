@@ -1,0 +1,16 @@
+Scriptname "elec"
+
+Start:
+	Rate 1,0
+	Tex 0
+	wait 0,20
+
+main:
+
+	Repeat
+	TexAdj 1,0,3
+	UntilTex = 3
+	Tex 0
+	wait 0,20
+
+	Goto 	main

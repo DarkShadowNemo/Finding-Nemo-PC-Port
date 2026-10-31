@@ -1,0 +1,13 @@
+[remap]
+
+importer="ats"
+type="Resource"
+path="res://.import/shrimp.ats-af746cce09e4697ec64ef0e685ad9d1a.tres"
+
+[deps]
+
+source_file="res://files/ats/levels/shrimp.ats"
+dest_files=[ "res://.import/shrimp.ats-af746cce09e4697ec64ef0e685ad9d1a.tres" ]
+
+[params]
+

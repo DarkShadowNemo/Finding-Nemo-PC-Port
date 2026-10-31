@@ -1,0 +1,16 @@
+Scriptname "bubAnim"
+
+Start:
+	Rate	1,0
+
+loop:
+
+	Tex	0
+
+	Repeat
+	  TexAdj	1,0,63
+	  UntilTex = 63
+
+	Goto 	loop
+
+

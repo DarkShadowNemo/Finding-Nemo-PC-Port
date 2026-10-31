@@ -1,0 +1,18 @@
+Scriptname "ring_01"
+
+Start:
+	Rate	1,0   ;;update rate plus rand  
+	wait 0,20
+
+ring_01:
+	
+	Repeat
+	TexAdj 1,0,34
+	UntilTex = 34
+	Tex 0
+	
+
+
+	Goto 	ring_01
+
+

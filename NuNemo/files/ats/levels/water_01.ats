@@ -1,0 +1,16 @@
+Scriptname "water_01"
+
+Start:
+	Rate	2,0   ;;update rate plus rand  
+	tex 0
+water_01:
+	
+	Repeat		
+	TexAdj 1,0,127
+	UntilTex = 127
+	Tex 0
+
+
+	Goto 	water_01
+
+

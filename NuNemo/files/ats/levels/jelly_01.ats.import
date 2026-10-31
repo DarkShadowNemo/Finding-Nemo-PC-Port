@@ -1,0 +1,13 @@
+[remap]
+
+importer="ats"
+type="Resource"
+path="res://.import/jelly_01.ats-ea6bfc29eb94be18aa5daa7fd1fabeb6.tres"
+
+[deps]
+
+source_file="res://files/ats/levels/jelly_01.ats"
+dest_files=[ "res://.import/jelly_01.ats-ea6bfc29eb94be18aa5daa7fd1fabeb6.tres" ]
+
+[params]
+
